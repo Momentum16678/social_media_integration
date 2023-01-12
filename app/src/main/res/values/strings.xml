@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Social Media Integration</string>
+    <string name="facebook_app_id">574373924086539</string>
+    <string name="fb_login_protocol_scheme">fb574373924086539</string>
+    <string name="facebook_client_token">92bc6c0807a0dd7976cb2e2946cfcdac</string>
+    <string name="the_sparks_foundation">The Sparks Foundation</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="email">Email:</string>
+    <string name="name">Name:</string>
+    <string name="logout">LOGOUT</string>
+    <string name="sign_out">Sign Out</string>
+
+</resources>
